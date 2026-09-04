@@ -7,7 +7,7 @@ about:
   head: 50a5919
   archived: true
   latestVersion: v0.1.0
-  collectedAt: 2026-09-04T19:29:05Z
+  collectedAt: 2026-09-04T21:02:55Z
 timeline:
   created: 2023-02-01
   lastCommit: 2025-05-09
@@ -81,5 +81,33 @@ total:
   openIssue: 0
   commit: 12
 ---
+path: /home/runner/.x-repo/github.com/jhheider/sanitize
+collectedAt: 2026-09-04T21:02:55Z
+loc:
+  Rust:
+    code: 535
+    comments: 0
+    blanks: 77
+    files: 14
+  Toml:
+    code: 17
+    comments: 0
+    blanks: 1
+    files: 1
+  Yaml:
+    code: 5
+    comments: 13
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 29
+    blanks: 10
+    files: 1
+total:
+  code: 557
+  comments: 42
+  blanks: 88
+  files: 17
 ---
 
